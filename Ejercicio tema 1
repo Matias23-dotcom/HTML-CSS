@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+
+<html lang="en"><title>Ejercicio de introducción a HTML en Open Bootcamp</title>
+<body><p>Este es mi primer comentario de dos líneas</p>
+    <p>Aprendiendo a documentar mi código con OpenBootcamp</p>
+
+    <h4>lista desordenada</h4>
+    <ul><a href= "https://www.youtube.com/watch?v=LPDk4KwcMIE&t=180s"> Hagas lo que hagas hazlo con ganas</a></ul>
+    <ul><a href= "https://www.youtube.com/watch?v=UuCDs_RIlNI&t=213s"> Tres misterios de Saturno</a></ul>
+    <ul><a href= "https://www.youtube.com/watch?v=Z0UN12e6_0I&t=339s"> Pablo a la mazmorra aprobo casting con el rey del boxer</a></ul></body></html>
